@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @luistm
 - 👀 I’m interested in Go, Python and everything software
+- 😎 Projects are built for my own usage, but feel free to contribute 
 
 <!---
 luistm/luistm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
